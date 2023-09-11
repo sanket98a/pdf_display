@@ -1,4 +1,4 @@
 PyPDF2
 pathlib
-pybase64
+# pybase64
 streamlit
